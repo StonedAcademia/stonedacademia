@@ -47,9 +47,8 @@
 
 <div align="center">
 
-### Thanks for visiting my tiny corner of the internet.
+### Thanks for visiting
 
-<img src="chibi-city.png" width="420" alt="cute pixel town at night"/>
 <img 
 src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b8ff9f,50:8bd3ff,100:ff9edb"
 width="100%"
