@@ -69,14 +69,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=StonedAcadem
 ### Thanks for visiting my tiny corner of the internet.
 
 <img src="chibi-city.png" width="420" alt="cute pixel town at night"/>
-
-<br/>
-
-```txt
-PLEASE DO NOT TURN OFF THE CONSOLE
-saving data...
-```
-
 <img 
 src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b8ff9f,50:8bd3ff,100:ff9edb"
 width="100%"
