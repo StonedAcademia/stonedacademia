@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,html,css,react,nodejs,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=rust,ts,python,go,rust,react,nodejs,git,linux" />
 
 <br/>
 <br/>
