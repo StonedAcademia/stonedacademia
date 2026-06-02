@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/build-I%20like%20them%20thick-b8ff9f?style=for-the-badge&labelColor=1b1b2f" />
   <img src="https://img.shields.io/badge/debugging-with%20vyvanse-ffd166?style=for-the-badge&labelColor=1b1b2f" />
   
+  <br />
+  
   <!-- Cute avatar/mascot zone -->
   <img src="Truth.webp" width="180" alt="cute pixel anime mascot coding at a CRT"/>
   
