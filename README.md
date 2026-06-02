@@ -9,6 +9,8 @@
 <!-- Cute avatar/mascot zone -->
 <img src="Truth.webp" width="180" alt="cute pixel anime mascot coding at a CRT"/>
 
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2600&pause=900&color=FF8FD8&center=true&vCenter=true&width=700&lines=programming+since+I+was+a+baby+boy;raised+by+forums%2C+manuals%2C+and+trial+%26+error;PS2-era+menus+live+rent-free+in+my+head;building+tiny+systems+with+big+feelings" alt="Typing SVG" />
 
 <br/>
