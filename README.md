@@ -16,7 +16,6 @@
 <br/>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/status-saving%20progress-ff9edb?style=for-the-badge&labelColor=1b1b2f" />
 <img src="https://img.shields.io/badge/mood-dead%20inside-8bd3ff?style=for-the-badge&labelColor=1b1b2f" />
 <img src="https://img.shields.io/badge/build-I%20like%20them%20thick-b8ff9f?style=for-the-badge&labelColor=1b1b2f" />
 <img src="https://img.shields.io/badge/debugging-with%20vyvanse-ffd166?style=for-the-badge&labelColor=1b1b2f" />
@@ -24,11 +23,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,ts,python,go,rust,react,nodejs,git,linux" />
-
-<br/>
-<br/>
 
 <img src="https://img.shields.io/badge/Rust-ff9edb?style=for-the-badge&logo=rust&logoColor=000" />
 <img src="https://img.shields.io/badge/JavaScript-8bd3ff?style=for-the-badge&logo=javascript&logoColor=000" />
