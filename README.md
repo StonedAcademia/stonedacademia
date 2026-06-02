@@ -23,12 +23,7 @@
 
 </div>
 
-
-## System Stats
-
 <div align="center">
-
-### Languages / Tools I Actually Touch
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,html,css,react,nodejs,git,linux,vscode" />
 
