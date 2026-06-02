@@ -68,7 +68,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=StonedAcadem
 
 ### Thanks for visiting my tiny corner of the internet.
 
-<img src="assets/chibi-city.png" width="420" alt="cute pixel town at night"/>
+<img src="chibi-city.png" width="420" alt="cute pixel town at night"/>
 
 <br/>
 
