@@ -7,7 +7,7 @@
 />
 
 <!-- Cute avatar/mascot zone -->
-<img src="assets/mascot.gif" width="180" alt="cute pixel anime mascot coding at a CRT"/>
+<img src="stoned.png" width="180" alt="cute pixel anime mascot coding at a CRT"/>
 
 ### `now loading... memory card data`
 
@@ -68,7 +68,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=StonedAcadem
 
 ### Thanks for visiting my tiny corner of the internet.
 
-<img src="assets/footer-pixel-town.gif" width="420" alt="cute pixel town at night"/>
+<img src="assets/chibi-city.png" width="420" alt="cute pixel town at night"/>
 
 <br/>
 
