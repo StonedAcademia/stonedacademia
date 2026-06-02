@@ -7,7 +7,7 @@
 />
 
 <!-- Cute avatar/mascot zone -->
-<img src="stoned.png" width="180" alt="cute pixel anime mascot coding at a CRT"/>
+<img src="Truth.webp" width="180" alt="cute pixel anime mascot coding at a CRT"/>
 
 ### `now loading... memory card data`
 
